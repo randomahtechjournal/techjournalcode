@@ -1,0 +1,99 @@
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    background-color: #c3d6c6;
+    overflow-y:scroll;
+    scroll-behavior: smooth;
+}
+.quote {
+    font-style: italic;
+}
+#home {
+    text-align: center;
+}
+#home h1 {
+    font-size:60px;
+    margin-top: 250px;
+}
+#home h1 span {
+    color:#667a69;
+}
+.learnmore_btn {
+    padding: 10px 10px 10px 10px;
+    color:black;
+    text-decoration: none;
+    border-style:solid;
+    border-width:4px;
+    border-color:black;
+    border-radius:20px;
+    font-size:20px;
+    transition:800ms ease;
+    font-weight: 600;
+}
+.learnmore_btn:hover {
+    background-color: white;
+    font-weight:650;
+    font-size:22px;
+}
+#hrefsection {
+    margin-top:100px;
+    text-align: center;
+}
+#about_us {
+    margin-top:500px;
+    text-align: center;
+}
+#teamandstaff {
+    text-align: center;
+}
+#teamandstaff img {
+    border-radius:20px;
+}
+#teamandstaff span {
+    margin-left:200px;
+}
+#teamandstaff h1 {
+    padding:0px 500px 0px 500px;
+    font-size: 25px;
+}
+#teamandstaffmain {
+    margin-top:400px;
+    text-align: center;
+}
+#teamandstaffmain h1 {
+    font-size:40px;
+    color:#667a69;
+}
+#about_us h2 {
+    font-size:40px;
+    color:#667a69;
+}
+#about_us p {
+    font-size: 18px;
+}
+#endabout {
+    margin-top:40px;
+    padding: 0px 400px 0px 400px;
+    font-weight:480;
+}
+#footer {
+    color:black;
+    font-size:18px;
+    width:100%;
+    margin-top:100px;
+    background-color: #667a69;
+    position: absolute;
+    left:0;
+}
+#footer #madeby {
+    margin-top:15px;
+}
+#footer #linkedinhref {
+    color:black;
+    text-decoration: none;
+    font-style: italic;
+    font-size:18px;
+    transition:800ms ease;
+}
